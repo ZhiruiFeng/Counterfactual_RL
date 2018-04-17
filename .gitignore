@@ -1,0 +1,11 @@
+*.swp
+*.pyc
+*.pkl
+*.py~
+.pytest_cache
+.DS_Store
+.idea
+
+.ipynb_checkpoints
+
+/data/

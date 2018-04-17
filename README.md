@@ -1,11 +1,16 @@
 # Counterfactual_RL
 Reinforcement Learning Agent that can make full use of counterfactual information.
 
+Colonel rank (Creative Level)
+<figure>
+  <img src="http://fzruniverse.life/images/Colonel.png" alt="Colonel" height="40">
+</figure>
+
 **Backgrounds**
 
 Imagine such a situation: there are three treasure chests in front of you, and you are only allowed to open one of them.  After opening one, you found there is nothing inside it. You may feel very upset. But, then I tell you one of the chests will burst after opening. Now, instead, you must feel so lucky. This is how counterfactual information changes our view of option value.
 
-RL mostly like a loop of trial and learn, which will result in low learning speed and sampling inefficiency. And in real situations, it will also being easily to take destructive actions and being trapped in partial understanding of the environment. In fact, we have no idea how well the performance is when solely depends on rewards, because some envrionment will ofer a large mount of rewards. Especially, while using experience replay, a lot of past experiences will be out of date dramatically because of "Black Swan Effect". 
+RL mostly like a loop of trial and learn, which will result in low learning speed and sampling inefficiency. And in real situations, it will also being easily to take destructive actions and being trapped in partial understanding of the environment. In fact, we have no idea how well the performance is when solely depends on rewards, because some envrionment will ofer a large mount of rewards. Especially, while using experience replay, a lot of past experiences will be out of date dramatically because of "Black Swan Effect".
 
 **Functioning**
 
