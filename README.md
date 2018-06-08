@@ -1,6 +1,8 @@
 # Counterfactual_RL
 Reinforcement Learning Agent that can make full use of counterfactual information.
 
+**Current State:** Unfinished
+
 Colonel rank (Creative Level)
 <figure>
   <img src="http://fzruniverse.life/images/Colonel.png" alt="Colonel" height="40">
